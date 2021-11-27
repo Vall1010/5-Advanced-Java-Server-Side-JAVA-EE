@@ -1,0 +1,14 @@
+<web-app>
+<servlet>
+
+<servlet-name>POST</servlet-name>
+<servlet-class>ExamServletP</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+<servlet-name>POST</servlet-name>
+<url-pattern>/index</url-pattern>
+</servlet-mapping>
+
+</web-app>

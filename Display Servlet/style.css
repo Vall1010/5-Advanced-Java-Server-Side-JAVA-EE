@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color:white;
+	background-color:blue;
+	
+}
+
+.submit{
+	background-color:blue;
+	color:white;
+	
+}

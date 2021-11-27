@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color:#fff;
+	
+}
+
+.content{
+width: 40%;
+margin: 10px;
+padding: 20px;
+border-radius: 5px;
+background-color:#303952;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+h1{text-align: center;
+color:#ffdd59;
+}
+
+
+input[type=submit] {
+  width: 100%;
+  background-color:#ffdd59;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #ff463e;
+  color: white;
+}
